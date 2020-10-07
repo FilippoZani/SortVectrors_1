@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filippo.zani\\Documents\\SortVectors_1\\SortVectors_1\\SortVectors_1.csproj",
+      "projectUniqueName": "C:\\Users\\filippo.zani\\Documents\\Clone\\SortVectrors_1\\SortVectors_1\\SortVectors_1.csproj",
       "projectName": "SortVectors_1",
-      "projectPath": "C:\\Users\\filippo.zani\\Documents\\SortVectors_1\\SortVectors_1\\SortVectors_1.csproj",
+      "projectPath": "C:\\Users\\filippo.zani\\Documents\\Clone\\SortVectrors_1\\SortVectors_1\\SortVectors_1.csproj",
       "packagesPath": "C:\\Users\\filippo.zani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filippo.zani\\Documents\\SortVectors_1\\SortVectors_1\\obj\\",
+      "outputPath": "C:\\Users\\filippo.zani\\Documents\\Clone\\SortVectrors_1\\SortVectors_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
